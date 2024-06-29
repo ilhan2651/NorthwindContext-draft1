@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\EdFinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36167315-668B-4CD7-BD80-5B12AF29B9E4}|WebAPI1\\WebAPI1.csproj|c:\\users\\lenovo\\source\\repos\\edfinalproject\\webapi1\\controlers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36167315-668B-4CD7-BD80-5B12AF29B9E4}|WebAPI1\\WebAPI1.csproj|solutionrelative:webapi1\\controlers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56A3764-A931-4A40-9981-CF54C7381DEB}|Core\\Core.csproj|C:\\Users\\lenovo\\source\\repos\\EdFinalProject\\core\\data access\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56A3764-A931-4A40-9981-CF54C7381DEB}|Core\\Core.csproj|solutionrelative:core\\data access\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36167315-668B-4CD7-BD80-5B12AF29B9E4}|WebAPI1\\WebAPI1.csproj|c:\\users\\lenovo\\source\\repos\\edfinalproject\\webapi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36167315-668B-4CD7-BD80-5B12AF29B9E4}|WebAPI1\\WebAPI1.csproj|solutionrelative:webapi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE83B39-8B0C-4E57-A8DB-A507224CFDE6}|DataAccess\\DataAccess.csproj|c:\\users\\lenovo\\source\\repos\\edfinalproject\\dataaccess\\concrete\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE83B39-8B0C-4E57-A8DB-A507224CFDE6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004C9F68-CE78-473F-90D1-3DDDB9E60045}|Entitites\\Entitites.csproj|c:\\users\\lenovo\\source\\repos\\edfinalproject\\entitites\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004C9F68-CE78-473F-90D1-3DDDB9E60045}|Entitites\\Entitites.csproj|solutionrelative:entitites\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE83B39-8B0C-4E57-A8DB-A507224CFDE6}|DataAccess\\DataAccess.csproj|c:\\users\\lenovo\\source\\repos\\edfinalproject\\dataaccess\\concrete\\entityframework\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE83B39-8B0C-4E57-A8DB-A507224CFDE6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AABEB73-35BE-4C61-9D83-D4B245048141}|Business\\Business.csproj|C:\\Users\\lenovo\\source\\repos\\EdFinalProject\\business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AABEB73-35BE-4C61-9D83-D4B245048141}|Business\\Business.csproj|solutionrelative:business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE83B39-8B0C-4E57-A8DB-A507224CFDE6}|DataAccess\\DataAccess.csproj|c:\\users\\lenovo\\source\\repos\\edfinalproject\\dataaccess\\concrete\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE83B39-8B0C-4E57-A8DB-A507224CFDE6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\EdFinalProject\\DataAccess\\Concrete\\EntityFramework\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\NorthwindContext.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\EdFinalProject\\DataAccess\\Concrete\\EntityFramework\\NorthwindContext.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\NorthwindContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T11:24:02.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\EdFinalProject\\Entitites\\Concrete\\Product.cs",
+              "RelativeDocumentMoniker": "Entitites\\Concrete\\Product.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\EdFinalProject\\Entitites\\Concrete\\Product.cs",
+              "RelativeToolTip": "Entitites\\Concrete\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T11:13:41.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EfProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\EdFinalProject\\DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\EdFinalProject\\DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T11:10:06.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\EdFinalProject\\WebAPI1\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI1\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\EdFinalProject\\WebAPI1\\Program.cs",
+              "RelativeToolTip": "WebAPI1\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:10:34.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EfEntityRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\EdFinalProject\\Core\\Data Access\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Core\\Data Access\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\EdFinalProject\\Core\\Data Access\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "RelativeToolTip": "Core\\Data Access\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAswDMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T13:11:25.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\EdFinalProject\\Business\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\EdFinalProject\\Business\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ProductManager.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAQwCQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:47:26.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\EdFinalProject\\WebAPI1\\Controlers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebAPI1\\Controlers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\EdFinalProject\\WebAPI1\\Controlers\\ProductsController.cs",
+              "RelativeToolTip": "WebAPI1\\Controlers\\ProductsController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAnwAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:49:15.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EfCategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\EdFinalProject\\DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\EdFinalProject\\DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T11:39:35.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
